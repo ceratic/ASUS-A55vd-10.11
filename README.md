@@ -1,10 +1,10 @@
 Asus A55VD OSX ElCapitan kext
 =======
-full guide on how to and ressources from ***rufabf***.
+full guide on how to and ressources from ***rufabf***. 
 
-this is just an modifided pack to work with the A55VD instead of the K55VD from Asus 
+this is just an modifided pack to work with the A55VD instead of the K55VD from Asus  
 
-full guide on how to [here](http://forum.osxlatitude.com/index.php?/topic/8726-asus-k55vm-el-capitan-1011-update-81015/)
+full guide on how to [here](http://forum.osxlatitude.com/index.php?/topic/8726-asus-k55vm-el-capitan-1011-update-81015/) 
 
 
 
@@ -32,7 +32,8 @@ Name | Funktion
 
 -------------------
 
->###Working
+###Working  
+
 **Graphics with QE/CI on Intel HD4000 GPU**
 
 **LAN**
@@ -47,14 +48,15 @@ Name | Funktion
 
 **Battery**
 
-**Elantech Touchpad **
+**Elantech Touchpad**
 
 **Sleep, Processor P&C-States with Native power management**
 
 **Fn Hotkeys**
 
 --------------------
->###Not working
+###Not working  
+
 **Atheros AR9485 Wireless Network Adapter (need to replace with supported card)**
 
 **NVIDIA® Optimus™ GeForce® GT 610M**
